@@ -11,6 +11,7 @@
 >2. **Additional Data via the Foursquare API**
 > All the data related to venues will be gathered from Foursquare location data using their API. [Foursquare](https://foursquare.com/)
 ### Presentation
-From the terminal or command line, use the following expression:
+>Download the files and open the presentation(.slides.html) in your web browser (Google Chrome suggested).
+>Alternatively you can create a new slide deck from the terminal: From the terminal or command line, use the following expression:
 jupyter nbconvert Capstone_Project_Presentation.ipynb --to slides --post serve --template output-toggle
 This should open a tab in your web browser where you can scroll through the presentation. Sub-slides can be accessed by pressing 'down' when viewing its parent slide.
